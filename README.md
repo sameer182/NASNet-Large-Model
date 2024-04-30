@@ -1,5 +1,9 @@
 ## Training NASNet Large Model for Dog Breed Identification
 
+This is the source code for model training of "dog_identifer"
+
+> [dog_identifer](https://github.com/sameer182/dog_identifier)
+
 ### 1. System Flow Diagram
 <img width="600" alt="model flow diagram" src="https://github.com/sameer182/NASNet-Large-Model/assets/20257638/526742f9-ce96-40c9-bad1-d9f68daee2ad">
 
